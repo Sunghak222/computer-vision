@@ -1,0 +1,63 @@
+{
+    "Azalea": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1-score": 0.8888888888888888,
+        "support": 5.0
+    },
+    "BananaShrub": {
+        "precision": 0.6,
+        "recall": 0.75,
+        "f1-score": 0.6666666666666666,
+        "support": 4.0
+    },
+    "BeautifulBougainvillea": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4.0
+    },
+    "BuddhistPine": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 4.0
+    },
+    "CamelliaJaponica": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4.0
+    },
+    "DragonJuniper": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1-score": 0.8888888888888888,
+        "support": 4.0
+    },
+    "GoldenLeaves": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 5.0
+    },
+    "IndianSubleaseTree": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 3.0
+    },
+    "accuracy": 0.9090909090909091,
+    "macro avg": {
+        "precision": 0.925,
+        "recall": 0.9125,
+        "f1-score": 0.9126984126984127,
+        "support": 33.0
+    },
+    "weighted avg": {
+        "precision": 0.9272727272727274,
+        "recall": 0.9090909090909091,
+        "f1-score": 0.911976911976912,
+        "support": 33.0
+    }
+}

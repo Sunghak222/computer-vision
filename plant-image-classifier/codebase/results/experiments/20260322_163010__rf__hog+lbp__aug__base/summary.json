@@ -1,0 +1,35 @@
+{
+    "run_name": "20260322_163010__rf__hog+lbp__aug__base",
+    "model": "rf",
+    "feature_set": "hog+lbp",
+    "augmentation": true,
+    "dataset_tag": "base",
+    "notes": "Single run baseline",
+    "train_shape": [
+        420,
+        8110
+    ],
+    "val_shape": [
+        33,
+        8110
+    ],
+    "num_classes": 8,
+    "class_names": [
+        "Azalea",
+        "BananaShrub",
+        "BeautifulBougainvillea",
+        "BuddhistPine",
+        "CamelliaJaponica",
+        "DragonJuniper",
+        "GoldenLeaves",
+        "IndianSubleaseTree"
+    ],
+    "feature_dim": 8110,
+    "val_accuracy": 0.3939393939393939,
+    "val_macro_f1": 0.31871947496947495,
+    "val_weighted_f1": 0.32487882487882486,
+    "train_time_sec": 2.922576904296875,
+    "model_path": "models/experiments/20260322_163010__rf__hog+lbp__aug__base/model.pkl",
+    "report_path": "results/experiments/20260322_163010__rf__hog+lbp__aug__base/classification_report.json",
+    "timestamp": "20260322_163010"
+}

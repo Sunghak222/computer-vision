@@ -1,0 +1,35 @@
+{
+    "run_name": "20260322_174659__rf__hsv__aug__tuned",
+    "model": "rf",
+    "feature_set": "hsv",
+    "augmentation": true,
+    "dataset_tag": "tuned",
+    "notes": "RF tuning run",
+    "train_shape": [
+        420,
+        512
+    ],
+    "val_shape": [
+        33,
+        512
+    ],
+    "num_classes": 8,
+    "class_names": [
+        "Azalea",
+        "BananaShrub",
+        "BeautifulBougainvillea",
+        "BuddhistPine",
+        "CamelliaJaponica",
+        "DragonJuniper",
+        "GoldenLeaves",
+        "IndianSubleaseTree"
+    ],
+    "feature_dim": 512,
+    "val_accuracy": 0.9696969696969697,
+    "val_macro_f1": 0.9682539682539683,
+    "val_weighted_f1": 0.9692159692159693,
+    "train_time_sec": 0.2047429084777832,
+    "model_path": "models/experiments/20260322_174659__rf__hsv__aug__tuned/model.pkl",
+    "report_path": "results/experiments/20260322_174659__rf__hsv__aug__tuned/classification_report.json",
+    "timestamp": "20260322_174659"
+}

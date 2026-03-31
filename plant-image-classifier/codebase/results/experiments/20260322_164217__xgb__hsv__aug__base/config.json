@@ -1,0 +1,14 @@
+{
+    "model_name": "xgb",
+    "feature_set": [
+        "hsv"
+    ],
+    "img_size": [
+        128,
+        128
+    ],
+    "augmentation": true,
+    "dataset_tag": "base",
+    "notes": "Single run baseline",
+    "random_seed": 42
+}
