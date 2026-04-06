@@ -9,11 +9,10 @@ This project focuses on building a structured and explainable pipeline rather th
 ## 📸 Results
 
 ### Quantized Output
-![Quantized Output](../captures/lego_20260406_235227.png)
+![Quantized Output](captures/lego_20260406_235227.png)
 
 ### Final Lego-Style Output
-![Final Lego-Style Output](../captures/lego_20260214_151507.png)
-
+![Final Lego-Style Output](captures/lego_20260214_151507.png)
 ---
 
 ## ✨ Features
